@@ -5,7 +5,7 @@
 **About me** 
 -  🏛️ Student at Cavite State University 
 
-- 📈 Currently building solutions on [Frontend Mentor](ontendmentor.io/home)
+- 📈 Currently building solutions on [Frontend Mentor](frontendmentor.io/home)
 
 - ❤️ I love learning new stuffs, reading a book, and building fun stuffs on the web
 
