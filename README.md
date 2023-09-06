@@ -1,9 +1,9 @@
-### I'm currently a IT 4th year student learning ![Javscript](./assets/img/javascript.png)        Javascript, ![Sass](./assets/img/sass.png) Sass and ![CSS](./assets/img/css3.png) CSS. 
+### I'm currently a IT Fresh Graduate learning ![Javscript](./assets/img/javascript.png)        Javascript, ![Sass](./assets/img/sass.png) Sass and ![CSS](./assets/img/css3.png) CSS. 
 
 <br />
 
 **About me** 
--  🏛️ Student at Cavite State University 
+-  🏛️ Fresh graduate of Information Technology
 
 - 📈 Currently building solutions on [Frontend Mentor](frontendmentor.io/home)
 
